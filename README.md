@@ -11,12 +11,12 @@
 
 ### 💡 About Me
 
-- 🎓 **Engineer in Computer Science (MIAGE)** from EMSI Marrakech.
+- 🎓 **Engineer in Computer Science (MIAGE)** from EMSI.
 - 🛠️ Experienced in **Java Spring Boot, Angular, React, Django, and Next.js**.
 - 🚀 Passionate about **clean architecture**, **DevOps automation**, and **microservices**.
 - 🌐 Built and deployed multiple full-stack web applications with CI/CD pipelines using **GitHub Actions** and **Docker**.
 - 🧠 Interested in **AI integration (RAG, Gemini API)**, and innovative HR & travel solutions.
-- 📍 Based in Morocco | Open to national & international opportunities.
+  
 
 ---
 
